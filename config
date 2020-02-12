@@ -1,0 +1,23 @@
+Host epc
+	HostName 192.168.12.74
+	User labadmin
+
+Host enb1
+	HostName 192.168.12.73
+	User labadmin
+
+Host femto1
+	HostName 192.168.12.76
+	User labadmin
+
+Host enb2
+	HostName 192.168.12.75
+	User labadmin
+
+Host femto2
+	HostName 192.168.12.78
+	User labadmin
+
+Host morty
+	HostName 192.168.12.55
+	User labadmin
